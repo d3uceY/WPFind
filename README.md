@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wpfind.png" alt="WPFind logo" width="160">
+  <img src="wpfind.png" alt="WPFind logo" width="100">
 </p>
 
 <h1 align="center">WPFind</h1>
@@ -13,11 +13,12 @@
 
 ## Install
 
-1. Clone or download this repository.
-2. Open `chrome://extensions` (or `edge://extensions`).
-3. Enable **Developer mode**.
-4. Click **Load unpacked** and select the `wpfind/` folder.
-5. Open any WordPress admin page and click the WPFind toolbar icon.
+1. Grab `wpfind.zip` from the [Releases](../../releases) page (or clone this repository).
+2. Unzip it if you downloaded the archive.
+3. Open `chrome://extensions` (or `edge://extensions`).
+4. Enable **Developer mode**.
+5. Click **Load unpacked** and select the `wpfind/` folder.
+6. Open any WordPress admin page and click the WPFind toolbar icon.
 
 
 

@@ -20,6 +20,9 @@
 5. Click **Load unpacked** and select the `wpfind/` folder.
 6. Open any WordPress admin page and click the WPFind toolbar icon.
 
+<img width="383" height="488" alt="image" src="https://github.com/user-attachments/assets/6cfbc5b6-6be8-45cb-bca0-34b1427953c0" />
+
+
 
 
 ## License

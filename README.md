@@ -21,6 +21,8 @@
 5. Enable **Developer mode**.
 
 7. Click **Load unpacked** and select the `wpfind/` folder.
+- <img width="539" height="415" alt="image" src="https://github.com/user-attachments/assets/a646a8ea-fd59-4e92-ab2d-2d433b850ab7" />
+
 
 
 9. Open any WordPress admin page and click the WPFind toolbar icon.

@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "WPFind",
+  "version": "0.1.0",
+  "description": "Search every WordPress admin menu and submenu from one popup.",
+  "action": {
+    "default_title": "WPFind",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
